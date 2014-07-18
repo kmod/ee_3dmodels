@@ -1,0 +1,1 @@
+These files are distributed under their original copyright and licenses -- no modifications have been made, other than sometimes renaming files to match my personal package names.
